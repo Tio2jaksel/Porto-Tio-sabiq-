@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #222;
+}
+
+.foto {
+    width: 220px;
+    max-height: 250px;
+    object-fit: cover;
+}
+
+section {
+    scroll-margin-top: 20px;
+}
+
+.form-kontak {
+    max-width: 550px;
+}
